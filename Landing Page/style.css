@@ -38,6 +38,7 @@ body{
     align-items: center;
     justify-content: center;
     -webkit-text-fill-color: transparent;
+    background-clip: text;
     -webkit-background-clip: text;
     background-size: contain;
     background-image: url(./pexels-irina-iriser-1408221.jpg);
